@@ -105,7 +105,7 @@ Contributors
 
 ===================
 
-Odoo Apps Store: https://apps.odoo.com/apps/modules/13.0/ir_attachment_s3/
+Odoo Apps Store: https://apps.odoo.com/apps/modules/14.0/ir_attachment_s3/
 
 
-Tested on `Odoo 13.0 <https://github.com/odoo/odoo/commit/f862f9650395b02f6a43c57cdf232a309fa6948e>`_
+Tested on `Odoo 14.0 <https://github.com/odoo/odoo/commit/120366491f58a802deef68a17ebb26199ef829a2>`_
